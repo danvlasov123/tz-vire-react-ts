@@ -1,4 +1,4 @@
-import { IJokes } from "interfaces/jokes.interface";
+import { IJokes } from "src/interfaces/jokes.interface";
 
 export const JOKES: IJokes[] = [
   {
